@@ -1,4 +1,4 @@
-# DFucker is an organisation of programmers for kill discord system
+# DFucker is an organisation of programmers to kill discord's system
 
 ## Our projects
 
